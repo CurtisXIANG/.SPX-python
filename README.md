@@ -1,1 +1,1 @@
-# .SPX-2026-python-forecast
+# .SPX-2026-python
